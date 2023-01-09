@@ -14,9 +14,9 @@ Here I am putting the all the work related to NLP from scratch to advanced (Only
 
 5.Working with textfiles and pdf and dataframes(pandas and pyspark).
 
-6.Working with API(flask).
+6.EDA of text data using Pandas and pysaprk.
 
-7.EDA of text data using Pandas and pysaprk.
+7.Working with API(flask).
 
 8.Working NLP libraries.(NLTK,Gensim,)
 
