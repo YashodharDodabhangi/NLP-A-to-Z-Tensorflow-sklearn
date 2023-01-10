@@ -6,7 +6,8 @@ Here I am putting the all the work related to NLP from scratch to advanced (Only
   ii.text Normalization
   
 2.NLP encoding techniques,
-    one-hot-encoding,Bag of words,TF-idf,WordtoVec,Weighted_wordtoVec,Word_embdedding,Text Augumation.
+    text based encoding,Bag of words,TF-idf,Word_embdedding,Bert encoding
+    Text Augumation
     
 3.classification using Naive-bayes.
 
